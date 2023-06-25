@@ -1,0 +1,26 @@
+@host=http://localhost:9000/
+@content-Type=application/json
+
+###
+GET {{host}}order
+
+###
+POST {{host}}order
+Content-Type: {{content-Type}}
+
+{
+"items":[
+    {
+      "item_count": "3",
+    "product": "632c0fc0b557402f686bb0d7"
+    },
+    {
+      "item_count": "2",
+    "product": "632c0fc0b557402f686bb0db"
+    },
+    {
+      "item_count": "5",
+    "product": "632c0fc0b557402f686bb0e7"
+    }
+]
+}

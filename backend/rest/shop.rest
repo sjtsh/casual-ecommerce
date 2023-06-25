@@ -1,0 +1,6 @@
+
+@host=http://localhost:9000/
+@content-Type=application/json
+
+###
+GET {{host}}shop/nearby?lat=27.702834&lon=85.277287

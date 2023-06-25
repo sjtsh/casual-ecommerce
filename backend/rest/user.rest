@@ -1,0 +1,14 @@
+
+@host=http://localhost:9000/
+@content-Type=application/json
+
+###
+POST {{host}}user
+Content-Type: {{content-Type}}
+
+{
+    "name":"Sanim Shrestha",
+    "phone":9808405273,
+    "password":"12345678"
+
+}

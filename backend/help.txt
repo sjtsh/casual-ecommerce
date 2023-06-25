@@ -1,0 +1,3 @@
+ npm i nodemon express dotenv cors mongoose compression http
+
+models String, Number, Date, Boolean, Timestamp,  

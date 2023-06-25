@@ -1,0 +1,11 @@
+System wide maintainance mode
+1. Order System maintainance mode
+2. Dashboard maintainance mode
+3. Partner maintainance mode
+4. User maintainance mode
+
+//when, how long, cancel, 
+
+Revoke
+1. Revoke authorizations one time
+2. Revoke notifications one time
