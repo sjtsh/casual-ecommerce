@@ -1,0 +1,370 @@
+{
+  "project_info": {
+    "project_number": "543501648377",
+    "project_id": "ezdelivery-a538c",
+    "storage_bucket": "ezdelivery-a538c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543501648377:android:5ba87da83c92e2cb6bfd28",
+        "android_client_info": {
+          "package_name": "com.techwol.faasto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543501648377-4duhjiukepfjnseuqlafkpkm98v9ul5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techwol.faasto",
+            "certificate_hash": "ce39b43c2ed06855234969d845b148bb6b6d80f6"
+          }
+        },
+        {
+          "client_id": "543501648377-8lr7sedd52av6thul4agk5p9gtelotfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techwol.faasto",
+            "certificate_hash": "e9cfa983727fe60166939aacb4da1198745a4739"
+          }
+        },
+        {
+          "client_id": "543501648377-ah9kjnkrjehug0o27ig1v7skckl94h3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techwol.faasto",
+            "certificate_hash": "f756b985ece8292356a83fd7c4d91a6261d5d966"
+          }
+        },
+        {
+          "client_id": "543501648377-rk8sritb06o2tt1mss40hb2trtsb56u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techwol.faasto",
+            "certificate_hash": "2177ce665fb2032391c2b90516b96274c22ee3d2"
+          }
+        },
+        {
+          "client_id": "543501648377-osq6vvh402bvk2nmjc773occ0smj03uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVPAs01XWa49umMDnWmHmKoDDB2luYRos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543501648377-osq6vvh402bvk2nmjc773occ0smj03uo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543501648377-o64eb0efin8tok3mg0e6fg9lpoqd1os9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techwol.pasalko"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543501648377:android:2c08f12a67df93986bfd28",
+        "android_client_info": {
+          "package_name": "com.techwol.faastopartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543501648377-aip3cn0f5mpklp4i2l7fr99ii84sv9f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techwol.faastopartner",
+            "certificate_hash": "d3829adc9cd69fdf68ee0c7b3a6132a9492ef98b"
+          }
+        },
+        {
+          "client_id": "543501648377-ijutvuqgqslj3e3268b6vo5bvomnlm9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techwol.faastopartner",
+            "certificate_hash": "5fd7a620da873a1682e59fdd3f65846e7bbb97d1"
+          }
+        },
+        {
+          "client_id": "543501648377-rmoquuo39o907h0ssd6dhgscf0gm14gt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techwol.faastopartner",
+            "certificate_hash": "f49aa9be9b092ec454b204593eeb4e6c0488a20c"
+          }
+        },
+        {
+          "client_id": "543501648377-osq6vvh402bvk2nmjc773occ0smj03uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVPAs01XWa49umMDnWmHmKoDDB2luYRos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543501648377-osq6vvh402bvk2nmjc773occ0smj03uo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543501648377-o64eb0efin8tok3mg0e6fg9lpoqd1os9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techwol.pasalko"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543501648377:android:83c8c0819914de776bfd28",
+        "android_client_info": {
+          "package_name": "com.techwol.pasalko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543501648377-jir6i258ndgtulekaepohirl0t8j1ddh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techwol.pasalko",
+            "certificate_hash": "f756b985ece8292356a83fd7c4d91a6261d5d966"
+          }
+        },
+        {
+          "client_id": "543501648377-moe3cbgdlfdcbot5qoppe7ukkhtjp6h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techwol.pasalko",
+            "certificate_hash": "e9cfa983727fe60166939aacb4da1198745a4739"
+          }
+        },
+        {
+          "client_id": "543501648377-rrtqd9ieij17otknecp9shrg0g3v1vv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techwol.pasalko",
+            "certificate_hash": "ce39b43c2ed06855234969d845b148bb6b6d80f6"
+          }
+        },
+        {
+          "client_id": "543501648377-vpj6oi51regnb5fbsj0e3u98v9212ci3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techwol.pasalko",
+            "certificate_hash": "2177ce665fb2032391c2b90516b96274c22ee3d2"
+          }
+        },
+        {
+          "client_id": "543501648377-osq6vvh402bvk2nmjc773occ0smj03uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVPAs01XWa49umMDnWmHmKoDDB2luYRos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543501648377-osq6vvh402bvk2nmjc773occ0smj03uo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543501648377-o64eb0efin8tok3mg0e6fg9lpoqd1os9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techwol.pasalko"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543501648377:android:5e82a5936507a95d6bfd28",
+        "android_client_info": {
+          "package_name": "com.techwol.pasalkopartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543501648377-j12e5k42dr2ba6ioersq9t5397taid23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techwol.pasalkopartner",
+            "certificate_hash": "d3829adc9cd69fdf68ee0c7b3a6132a9492ef98b"
+          }
+        },
+        {
+          "client_id": "543501648377-mgscdcpm4crrls20grbrnvo7k5564j67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techwol.pasalkopartner",
+            "certificate_hash": "5fd7a620da873a1682e59fdd3f65846e7bbb97d1"
+          }
+        },
+        {
+          "client_id": "543501648377-ndg2nsbj8ek4aqmor93jutivjdnt6nip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techwol.pasalkopartner",
+            "certificate_hash": "f49aa9be9b092ec454b204593eeb4e6c0488a20c"
+          }
+        },
+        {
+          "client_id": "543501648377-osq6vvh402bvk2nmjc773occ0smj03uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVPAs01XWa49umMDnWmHmKoDDB2luYRos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543501648377-osq6vvh402bvk2nmjc773occ0smj03uo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543501648377-o64eb0efin8tok3mg0e6fg9lpoqd1os9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techwol.pasalko"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543501648377:android:ebee0eeb64870a6a6bfd28",
+        "android_client_info": {
+          "package_name": "np.com.hilifefoods.ezdeliver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543501648377-rt0fj1nbuq2nmsu4ejhkmdkqlse8lcn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.hilifefoods.ezdeliver",
+            "certificate_hash": "e9cfa983727fe60166939aacb4da1198745a4739"
+          }
+        },
+        {
+          "client_id": "543501648377-tnct1jlk2bitqo9san8342o8kn3lbi8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.hilifefoods.ezdeliver",
+            "certificate_hash": "2177ce665fb2032391c2b90516b96274c22ee3d2"
+          }
+        },
+        {
+          "client_id": "543501648377-osq6vvh402bvk2nmjc773occ0smj03uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVPAs01XWa49umMDnWmHmKoDDB2luYRos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543501648377-osq6vvh402bvk2nmjc773occ0smj03uo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543501648377-o64eb0efin8tok3mg0e6fg9lpoqd1os9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techwol.pasalko"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543501648377:android:fe9a3f0a02b5233a6bfd28",
+        "android_client_info": {
+          "package_name": "np.com.hilifefoods.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543501648377-7fq8kkv9ff3f6f22tp3i0vpjsumqq3v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.hilifefoods.shop",
+            "certificate_hash": "5fd7a620da873a1682e59fdd3f65846e7bbb97d1"
+          }
+        },
+        {
+          "client_id": "543501648377-jm4a7prqg9ahst951bjqaacc2je0vd62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.hilifefoods.shop",
+            "certificate_hash": "f49aa9be9b092ec454b204593eeb4e6c0488a20c"
+          }
+        },
+        {
+          "client_id": "543501648377-osq6vvh402bvk2nmjc773occ0smj03uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVPAs01XWa49umMDnWmHmKoDDB2luYRos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543501648377-osq6vvh402bvk2nmjc773occ0smj03uo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543501648377-o64eb0efin8tok3mg0e6fg9lpoqd1os9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techwol.pasalko"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
